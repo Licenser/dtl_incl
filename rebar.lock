@@ -4,5 +4,5 @@
   1},
  {<<"dtl_dep">>,
   {git,"https://github.com/Licenser/dtl_dep.git",
-       {ref,"07d6241734eba971e1a91cff975aeda43f87c95a"}},
+       {ref,"bf7da37416d86886134dd53a7d4b4ab8d4a6a9eb"}},
   0}].
